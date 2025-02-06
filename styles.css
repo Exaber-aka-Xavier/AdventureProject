@@ -1,0 +1,88 @@
+/* Add CSS styles for your web site here and use them in index.html. */
+.storyopening {
+    text-align: center;
+    border-style:ridge;
+    padding: 20px
+  }
+  img { width: 500px;
+      padding:10px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;}
+      .button {border-style: groove;
+        ;}
+        .leftPath {text-align: center;
+          display: none;
+          background: linear-gradient(rgb(0, 0, 0), white);
+          border-style:ridge;
+          border-radius: 20px;
+          padding: 20px;}
+          .rightPath {text-align: center;
+            display: none;
+            background: linear-gradient(rgb(0, 0, 0), white);
+            border-style:ridge;
+            border-radius: 20px;
+            padding: 20px;}
+            .exiting {text-align: center;
+              display: none;
+              background: linear-gradient(rgb(0, 0, 0), white);
+              border-style:ridge;
+              border-radius: 20px;
+              padding: 20px;}
+              .crash {text-align: center;
+                display: none;
+                background: linear-gradient(rgb(0, 0, 0), white);
+                border-style:ridge;
+                border-radius: 20px;
+                padding: 20px;}
+                .westPath {text-align: center;
+                  display: none;
+                  background: linear-gradient(rgb(0, 0, 0), white);
+                  border-style:ridge;
+                  border-radius: 20px;
+                  padding: 20px;}
+                  .eastPath {text-align: center;
+                    display: none;
+                    background: linear-gradient(rgb(0, 0, 0), white);
+                    border-style:ridge;
+                    border-radius: 20px;
+                    padding: 20px;}
+                    .uhh {text-align: center;
+                      display: none;
+                      background: linear-gradient(rgb(0, 0, 0), white);
+                      border-style:ridge;
+                      border-radius: 20px;
+                      padding: 20px;}
+                      .running {text-align: center;
+                        display: none;
+                        background: linear-gradient(rgb(0, 0, 0), white);
+                        border-style:ridge;
+                        border-radius: 20px;
+                        padding: 20px;}
+                        .death {text-align: center;
+                          display: none;
+                          background: linear-gradient(rgb(0, 0, 0), white);
+                          border-style:ridge;
+                          border-radius: 20px;
+                          padding: 20px;}
+                          h4 {color: rgb(147, 0, 0);} 
+                           .gang {text-align: center;
+                            display: none;
+                            background: linear-gradient(rgb(0, 0, 0), white);
+                            border-style:ridge;
+                            border-radius: 20px;
+                            padding: 20px;}
+                            body {background: linear-gradient(gray, black) ;
+                            color: white;
+                            border-style:ridge;
+                          border-radius: 20px;
+                          padding: 20px;
+                          font-family: "Eater", serif;
+                            font-weight: 400;
+                            font-style: normal;
+                          
+                          }
+                          
+                      
+  
+
